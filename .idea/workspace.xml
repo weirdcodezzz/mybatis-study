@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f77948-af5b-442e-ba0a-f5d5185e3376" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developtools\Maven\repository" />
+        <option name="mavenHome" value="D:/developtools/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\developtools\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l7xMKCdKPhSGi2hqi8r963oKJS" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis-03/src/main/resources/mapper" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luo.util" />
+      <recent name="com.luo.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\lession\ssm\mybatis-study\mybatis-03\src\main\resources\mapper" />
+      <recent name="E:\code\lession\ssm\mybatis-study\mybatis-03\src\main\resources" />
+      <recent name="E:\code\lession\ssm\mybatis-study\mybatis-02\src\main\resources" />
+      <recent name="E:\code\lession\ssm\mybatis-study\mybatis-02\src\main\java" />
+      <recent name="E:\code\lession\ssm\mybatis-study\mybatis-01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentMapperTest.getStudentListTest">
+    <configuration name="StudentMapperTest.getStudentListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.StudentMapperTest" />
+      <option name="METHOD_NAME" value="getStudentListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentMapperTest.getTeacherListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.StudentMapperTest" />
+      <option name="METHOD_NAME" value="getTeacherListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherMapperTest.getTeacherListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.TeacherMapperTest" />
+      <option name="METHOD_NAME" value="getTeacherListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getUserListTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="getUserListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.getUserListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mybatis-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="getUserListTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentMapperTest.getStudentListTest" />
+        <item itemvalue="JUnit.StudentMapperTest.getTeacherListTest" />
+        <item itemvalue="JUnit.TeacherMapperTest.getTeacherListTest" />
+        <item itemvalue="JUnit.UserMapperTest.getUserListTest (1)" />
+        <item itemvalue="JUnit.UserMapperTest.getUserListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f77948-af5b-442e-ba0a-f5d5185e3376" name="Default Changelist" comment="" />
+      <created>1606961881767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606961881767</updated>
+      <workItem from="1606961883063" duration="16541000" />
+      <workItem from="1607478529222" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="835" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1606986732040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="835" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606986732040" />
+    <state width="872" height="210" key="GridCell.Tab.0.bottom" timestamp="1606989713572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="872" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606989713572" />
+    <state width="872" height="210" key="GridCell.Tab.0.center" timestamp="1606989713572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="872" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606989713572" />
+    <state width="872" height="210" key="GridCell.Tab.0.left" timestamp="1606989713572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="872" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606989713572" />
+    <state width="872" height="210" key="GridCell.Tab.0.right" timestamp="1606989713572">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="872" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606989713572" />
+    <state x="544" y="60" key="SettingsEditor" timestamp="1606961943685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="544" y="60" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606961943685" />
+    <state x="760" y="47" width="621" height="735" key="find.popup" timestamp="1606962388229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="760" y="47" width="621" height="735" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1606962388229" />
+    <state x="356" y="119" key="new project wizard" timestamp="1606985982584">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="119" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1606985982584" />
+  </component>
+</project>
